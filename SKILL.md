@@ -1,3 +1,8 @@
+---
+name: ouo-bypasser
+description: A command‑line Python utility that resolves short URLs from the `ouo.io` and `ouo.press` services to their final destination URLs. It supports batch processing via input files, handles nested redirects, incorporates extended timeouts, and retries failed requests after a back‑off period.
+---
+
 # Skill: Ouo Bypasser
 
 **Name**: `ouo-bypasser`
